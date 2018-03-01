@@ -2,6 +2,6 @@
 
 ### Autor: E.D. Fernandez & J. Garres
 ### Topic: inventado
-### Start date: 1st of March, 2018+
+### Start date: 1st of March, 2018.
 
 #####################################
